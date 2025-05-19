@@ -10,6 +10,7 @@ permalink: /Research/
 - Kim, Chan-Song, and Gi-Woo Roh. “The More the Worse: An Effect of Childcare on Parents’ Environmental Attitudes.” *Social Science Quarterly* 106(3): e70018.
 
 
+
   
 ### Peer-Reviewed Journal Articles (in Korean)
 
@@ -30,6 +31,7 @@ permalink: /Research/
 - Roh, Gi-Woo, and Hyeon-Woo Lee. 2018. “Analysis on the Causes of Over-Reporting of Voting and Ways to Curb It: Focusing on the Lying-Suspicious Group.” *Legislation and Policy Studies* 10(2): 63–90.
 
 
+
   
 ### Working Paper
 
@@ -42,6 +44,7 @@ permalink: /Research/
 - Noh, Song-San, and Gi-Woo Roh. “The Political Logic of Book Publication Events: Political Funding and Lobbying in South Korea.” *Working Paper, In Progress*.
 
 - Roh, Gi-Woo. “Voter Bias and Youth Representation: The Role of Prejudice and Age Discrimination.” *Under Review*.
+
 
 
 
