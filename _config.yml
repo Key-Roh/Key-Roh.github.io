@@ -10,21 +10,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      css: "/assets/css/custom.css"
-
 header_pages:
   - publications.md
   - teaching.md
   - cv.md
-
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      css: "/assets/css/custom.css"
