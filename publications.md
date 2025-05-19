@@ -4,6 +4,12 @@ title: "Research"
 permalink: /Research/
 ---
 
+---
+layout: page
+title: ""
+permalink: /about/
+---
+
 ### Peer-Reviewed Journal Articles (in English)
 
 - Kim, Chan-Song, and Gi-Woo Roh. “The More the Worse: An Effect of Childcare on Parents’ Environmental Attitudes.” *Social Science Quarterly* 106(3): e70018.
