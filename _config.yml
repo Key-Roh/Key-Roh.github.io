@@ -16,3 +16,6 @@ defaults:
       path: ""
     values:
       css: "/assets/css/custom.css"
+
+header_pages:
+  - publications.md
