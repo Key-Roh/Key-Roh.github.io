@@ -3,21 +3,17 @@ layout: page
 title: "Teaching"
 permalink: /teaching/
 ---
-<br>
-<br>
-<br>
----
 
----
-
+<p>
+<p>
+  
 ### Undergraduate Courses
 
 - Party Politics (2025-2)
----
-<br>
----
----
 
+<p>
+<p>
+  
 ### Methodology Workshop
 
 - Teaching Assistant, Panel Data Analysis, KOSSDA (Korea Social Science Data Archive)  Fall Short-Term Course on Methodology, 2024.  
