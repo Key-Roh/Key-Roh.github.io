@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Research"
-permalink: /publications/
+permalink: /Research/
 ---
 
 ### Peer-Reviewed Journal Articles (in English)
