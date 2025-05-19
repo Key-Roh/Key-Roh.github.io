@@ -21,3 +21,10 @@ header_pages:
   - publications.md
   - teaching.md
   - CV.md
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      css: "/assets/css/custom.css"
