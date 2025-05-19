@@ -6,11 +6,13 @@ baseurl: ""
 url: "https://key-roh.github.io"
 theme: minima
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
 header_pages:
   - publications.md
   - teaching.md
   - cv.md
+
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
