@@ -13,4 +13,4 @@ I am Gi-Woo Roh, a Research Fellow at the Sogang Institute of Political Studies 
 
 I have published peer-reviewed articles in both English and Korean, including a co-first-authored article in *Social Science Quarterly*. My recent projects focus on party membership, political participation among older generations, and the effects of party banners.
 
-[Download CV](cv.pdf)
+
