@@ -11,7 +11,7 @@ permalink: /teaching/
 
 - Party Politics (2025-2)
 
-
+<br>
 
 ### Methodology Workshop
 
