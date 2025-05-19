@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Gi-Woo Roh"
+title: ""
 ---
 
 ![Profile Picture](/assets/images/profile.jpg)
