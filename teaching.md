@@ -8,12 +8,13 @@ permalink: /teaching/
 <br>
 ---
 
+---
+
 ### Undergraduate Courses
 
 - Party Politics (2025-2)
-
+<br>
 ---
-
 
 ### Methodology Workshop
 
