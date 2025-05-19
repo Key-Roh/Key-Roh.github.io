@@ -20,7 +20,7 @@ defaults:
 header_pages:
   - publications.md
   - teaching.md
-  - CV.md
+  - cv.md
 
 defaults:
   -
