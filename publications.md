@@ -3,7 +3,7 @@ layout: page
 title: "Research"
 permalink: /Research/
 ---
-
+<br>
 
 ### Peer-Reviewed Journal Articles (in English)
 
