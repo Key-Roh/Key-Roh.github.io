@@ -3,6 +3,8 @@ layout: home
 title: "Gi-Woo Roh"
 ---
 
+![Profile Picture](/assets/images/profile.jpg)
+
 # Gi-Woo Roh, PhD  
 **Research Fellow, Sogang Institute of Political Studies**
 
