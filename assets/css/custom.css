@@ -10,3 +10,10 @@ ul + p > strong {
   display: block;
   margin-top: 2em;
 }
+
+hr {
+  border: none;
+  height: 3px;
+  background-color: #333; /* 진한 회색 */
+  margin: 2em 0;
+}
