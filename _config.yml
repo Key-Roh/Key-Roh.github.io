@@ -11,6 +11,12 @@ header_pages:
   - teaching.md
   - cv.md
 
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      css: "/assets/css/custom.css"
 
 plugins:
   - jekyll-feed
