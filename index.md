@@ -7,7 +7,6 @@ title: ""
 
 # Gi-Woo Roh, PhD  
 **Research Fellow, Sogang Institute of Political Studies, Sogang University, Seoul, South Korea**  
-📧 [Politics0412@gmail.com](mailto:Politics0412@gmail.com)
 
 ---
 
