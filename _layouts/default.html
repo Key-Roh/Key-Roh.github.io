@@ -1,10 +1,13 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
   <head>
-    <meta charset="UTF-8">
-    <title>{{ page.title }} | {{ site.title }}</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+    <meta name="description" content="{{ page.excerpt | default: site.description | strip_html }}">
+    
     <!-- Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-5XLFCM550L"></script>
     <script>
@@ -14,19 +17,27 @@
       gtag('config', 'G-5XLFCM550L');
     </script>
 
-    <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
+    <link rel="shortcut icon" href="{{ "/favicon.ico" | relative_url }}">
   </head>
   <body>
-    <header>
-      <h1><a href="{{ site.url }}">{{ site.title }}</a></h1>
+    <header class="site-header" role="banner">
+      <div class="wrapper">
+        <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title }}</a>
+      </div>
     </header>
 
-    <main>
-      {{ content }}
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
     </main>
 
-    <footer>
-      <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</p>
+    <footer class="site-footer">
+      <div class="wrapper">
+        <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
+      </div>
     </footer>
   </body>
 </html>
