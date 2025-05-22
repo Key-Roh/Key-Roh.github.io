@@ -1,4 +1,4 @@
-title: **Gi-Woo Roh**
+title: Gi-Woo Roh
 email: Politics0412@gmail.com
 description: >-
   Academic homepage of Dr. Gi-Woo Roh, Research Fellow at Sogang institute of Political Studies.
@@ -10,8 +10,7 @@ header_pages:
   - publications.md
   - teaching.md
   - cv.md
-  
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
