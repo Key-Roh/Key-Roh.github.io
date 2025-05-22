@@ -14,6 +14,11 @@ I am Gi-Woo Roh, a Research Fellow at the Sogang Institute of Political Studies 
 I have published peer-reviewed articles in both English and Korean, including a co-first-authored article in *Social Science Quarterly*. My recent projects focus on party membership, political participation among older generations, and the effects of party banners.
 
 
-<!-- hitwebcounter Code START -->
-<a href="https://www.hitwebcounter.com" target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=20729362&style=0007&nbdigits=5&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" /></a> 
+<div style="text-align: right; margin-top: 30px;">
+  <a href="https://www.hitwebcounter.com" target="_blank">
+    <img src="https://hitwebcounter.com/counter/counter.php?page=20729362&style=0007&nbdigits=5&type=page&initCount=0"
+         title="Visit counter"
+         alt="Visit counter"
+         style="width: 100px; height: 25px; border: 0;" />
+  </a>
+</div>
