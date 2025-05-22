@@ -1,6 +1,7 @@
 ---
 layout: home
 title: ""
+permalink: /
 ---
 
 ![Profile Picture](/assets/images/profile.jpg)
