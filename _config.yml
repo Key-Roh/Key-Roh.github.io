@@ -1,3 +1,8 @@
+---
+layout: default
+title: My Website
+---
+
 title: **Gi-Woo Roh**
 email: Politics0412@gmail.com
 description: >-
@@ -17,6 +22,8 @@ defaults:
       path: ""
     values:
       css: "/assets/css/custom.css"
+
+
 
 plugins:
   - jekyll-feed
