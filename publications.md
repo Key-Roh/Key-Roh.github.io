@@ -7,7 +7,9 @@ permalink: /Research/
 
 ### Peer-Reviewed Journal Articles (in English)
 
-- Kim, Chan-Song, and Gi-Woo Roh. “The More the Worse: An Effect of Childcare on Parents’ Environmental Attitudes.” *Social Science Quarterly* 106(3): e70018.
+- Kim, Chan-Song, and Gi-Woo Roh. 2025. “The More the Worse: An Effect of Childcare on Parents’ Environmental Attitudes.” *Social Science Quarterly* 106(3): e70018.
+
+- Roh, Gi-Woo, and Hee-Joon Kim. 2025. “The Rise of the South Korean Alt-Right: The ‘Silent Counter-Revolution’ of Young Men.” *Journal of Youth Studies*, forthcoming.
 
 <br>
 
@@ -35,7 +37,7 @@ permalink: /Research/
   
 ### Working Paper
 
-- Kim, Hee-Joon, and Gi-Woo Roh. “The Rise of the South Korean Alt-Right: The ‘Silent Counter-Revolution’ of Young Men.” Revise & Resubmit at *Journal of Youth Studies*.
+- Roh, Gi-Woo. “Voter Bias and Youth Representation: The Role of Prejudice and Age Discrimination.” *Under Review*.
 
 - Roh, Gi-Woo, and Chan-Song Kim. “Why Do Young People Engage in Politics?” Presented at the 2024 APSA Conference.
 
@@ -43,7 +45,6 @@ permalink: /Research/
 
 - Noh, Song-San, and Gi-Woo Roh. “The Political Logic of Book Publication Events: Political Funding and Lobbying in South Korea.” *Working Paper, In Progress*.
 
-- Roh, Gi-Woo. “Voter Bias and Youth Representation: The Role of Prejudice and Age Discrimination.” *Under Review*.
 
 <br>
 
