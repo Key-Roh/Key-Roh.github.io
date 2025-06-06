@@ -6,13 +6,13 @@ permalink: /teaching/
 
 <br>
 
-### Undergraduate Courses
+### Graduate Courses
 
-- Party Politics (2025-2)
+- Statistical Research Methods (2025-2)
 
 <br>
 
-### Methodology Workshop
+### Methodology Workshops
 
 - Teaching Assistant, Panel Data Analysis, KOSSDA (Korea Social Science Data Archive)  Fall Short-Term Course on Methodology, 2024.  
 
