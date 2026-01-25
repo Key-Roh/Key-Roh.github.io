@@ -8,13 +8,18 @@ permalink: /teaching/
 
 ### Graduate Courses
 
-- Statistical Research Methods (2025-2)
+- Statistical Research Methods, POSTECH (2025-2)
+
+- Statistical Research Methods, POSTECH (2026-1)
+
 
 <br>
 
 ### Undergraduate Courses
 
-- Korea and the World (2025-2)
+- Korea and the World, Sogang University (2025-2)
+
+- Korea and the World, Sogang University (2026-1)
 
 <br>
 
