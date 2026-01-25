@@ -39,11 +39,12 @@ permalink: /Research/
 
 - Roh, Gi-Woo. “Voter Bias and Youth Representation: The Role of Prejudice and Age Discrimination.” *Under Review*.
 
+- Roh, Gi-Woo. “Translating Youth Participation into Policy: A Case Study of the Seoul Youth Ordinance in South Korea.” *Under Review*.
+
 - Roh, Gi-Woo, and Chan-Song Kim. “Why Do Young People Engage in Politics?” Presented at the 2024 APSA Conference.
 
 - Na, Heejin, and Gi-Woo Roh. “War of Party Banners: The Impact of Partisan Messages on Voter Perceptions.” Presentation at the 2025 APSA Conference.
 
-- Noh, Song-San, and Gi-Woo Roh. “The Political Logic of Book Publication Events: Political Funding and Lobbying in South Korea.” *Working Paper, In Progress*.
 
 
 <br>
