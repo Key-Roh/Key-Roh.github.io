@@ -10,8 +10,6 @@ permalink: /teaching/
 
 - Statistical Research Methods, POSTECH (2025-2)
 
-- Statistical Research Methods, POSTECH (2026-1)
-
 
 <br>
 
