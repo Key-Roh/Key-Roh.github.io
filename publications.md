@@ -7,9 +7,9 @@ permalink: /Research/
 
 ### Peer-Reviewed Journal Articles (in English)
 
-- Kim, Chan-Song, and Gi-Woo Roh. 2025. “The More the Worse: An Effect of Childcare on Parents’ Environmental Attitudes.” *Social Science Quarterly* 106(3): e70018.
+- Roh, Gi-Woo, and Hee-Joon, Kim. 2025. “The Rise of the South Korean Alt-Right: The ‘Silent Counter-Revolution’ of Young Men.” *Journal of Youth Studies*, forthcoming.
 
-- Roh, Gi-Woo, and Hee-Joon Kim. 2025. “The Rise of the South Korean Alt-Right: The ‘Silent Counter-Revolution’ of Young Men.” *Journal of Youth Studies*, forthcoming.
+- Kim, Chan-Song, and Gi-Woo, Roh. 2025. “The More the Worse: An Effect of Childcare on Parents’ Environmental Attitudes.” *Social Science Quarterly* 106(3): e70018.
 
 <br>
 
@@ -41,9 +41,11 @@ permalink: /Research/
 
 - Roh, Gi-Woo. “Translating Youth Participation into Policy: A Case Study of the Seoul Youth Ordinance in South Korea.” *Under Review*.
 
+- Roh, Gi-Woo, and Jungsub, Shin. Party Membership Motivations and Political Activism in a Polarized New Democracy: Evidence from South Korea. *R&R*.
+
 - Roh, Gi-Woo, and Chan-Song Kim. “Why Do Young People Engage in Politics?” Presented at the 2024 APSA Conference.
 
-- Na, Heejin, and Gi-Woo Roh. “War of Party Banners: The Impact of Partisan Messages on Voter Perceptions.” Presentation at the 2025 APSA Conference.
+- Na, Heejin, and Gi-Woo, Roh. “War of Party Banners: The Impact of Partisan Messages on Voter Perceptions.” Presentation at the 2025 APSA Conference.
 
 
 
@@ -52,5 +54,5 @@ permalink: /Research/
 
 ### Book Chapters
 
-- Youngho Cho and Gi-Woo Roh. 2025. “The Paradox of Successful Responses to COVID-19 in South Korea.” in *COVID-19 and the Changing Relationships between State and Society in East Asia*, eds. Yida Zhai. London: Routledge.
+- Youngho Cho and Gi-Woo, Roh. 2025. “The Paradox of Successful Responses to COVID-19 in South Korea.” in *COVID-19 and the Changing Relationships between State and Society in East Asia*, eds. Yida Zhai. London: Routledge.
 
