@@ -39,7 +39,7 @@ permalink: /Research/
 
 - Roh, Gi-Woo. “Voter Bias and Youth Representation: The Role of Prejudice and Age Discrimination.” *Under Review*.
 
-- Roh, Gi-Woo. “Translating Youth Participation into Policy: A Case Study of the Seoul Youth Ordinance in South Korea.” *Under Review*.
+- Roh, Gi-Woo. “Translating Youth Participation into Policy: A Case Study of the Seoul Youth Ordinance in South Korea.” *R&R*.
 
 - Roh, Gi-Woo, and Jungsub, Shin. "Party Membership Motivations and Political Activism in a Polarized New Democracy: Evidence from South Korea." *R&R*.
 
