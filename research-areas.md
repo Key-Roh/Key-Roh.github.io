@@ -4,4 +4,4 @@ title: "Research Areas"
 permalink: /research-areas/
 ---
 
-assets/images/research_topics.png
+![Research Areas](/assets/images/research_topics.png)
