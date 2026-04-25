@@ -3,4 +3,5 @@ layout: page
 title: "Research Areas"
 permalink: /research-areas/
 ---
+
 assets/images/research_topics.png
