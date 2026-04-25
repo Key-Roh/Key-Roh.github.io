@@ -7,7 +7,7 @@ url: "https://key-roh.github.io"
 theme: minima
 
 header_pages:
-  - Research Areas.md
+  - Research-Areas.md
   - publications.md
   - teaching.md
   - cv.md
