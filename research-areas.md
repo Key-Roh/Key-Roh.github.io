@@ -205,19 +205,19 @@ permalink: /research-areas/
   <div class="pipeline">
     <div class="pipeline-label">Pipeline 2</div>
     <br>
-    <h2>Parties, Elections, and Political Participation</h2>
+    <h2>Political Parties and Participation</h2>
 
     <ul class="research-list">
       <li>
         <span class="research-number">01</span>
         <p class="research-title">Party Membership Motivations and Political Activism in a Polarized New Democracy: Evidence from South Korea <span class="research-status">(R&amp;R; under review)</span></p>
       </li>
-
+      
       <li>
         <span class="research-number">02</span>
-        <p class="research-title">Do Voters Prefer Incumbents Holding Cabinet Positions? Focusing on Voters’ Attitudes toward Concurrent Positions <span class="research-year">(2020)</span></p>
+        <p class="research-title">Different Clocks, Different Votes: How Temporal Framing Makes Time Matter for Voting <span class="research-status">(Working paper)</span></p>
       </li>
-
+      
       <li>
         <span class="research-number">03</span>
         <p class="research-title">Is the Korean Party System Unstable after Democratization? Focusing on the Effective Number of Parties and Electoral Volatility Indices <span class="research-year">(2019)</span></p>
@@ -243,7 +243,7 @@ permalink: /research-areas/
 
       <li>
         <span class="research-number">03</span>
-        <p class="research-title">Voter Bias and Youth Representation: The Role of Prejudice and Age Discrimination <span class="research-status">(under review)</span></p>
+        <p class="research-title">Voter Bias and Youth Representation: The Role of Prejudice and Age Discrimination <span class="research-status">(Working paper)</span></p>
       </li>
 
       <li>
@@ -253,6 +253,11 @@ permalink: /research-areas/
 
       <li>
         <span class="research-number">05</span>
+        <p class="research-title">Do Voters Prefer Incumbents Holding Cabinet Positions? Focusing on Voters’ Attitudes toward Concurrent Positions <span class="research-year">(2020)</span></p>
+      </li>
+
+      <li>
+        <span class="research-number">06</span>
         <p class="research-title">Continuity and Change in Regionalism in Yeongnam and Honam: An Experimental Design for Affective Regionalism <span class="research-year">(2018)</span></p>
       </li>
     </ul>
