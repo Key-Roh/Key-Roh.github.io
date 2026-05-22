@@ -18,9 +18,12 @@ permalink: /research-areas/
   border-left: 4px solid #2f6f9f;
   border-radius: 14px;
   background: #f8fafc;
-  font-size: 1.04rem;
+  font-family: inherit;
+  font-size: 1.12rem;
+  font-weight: 700;
   line-height: 1.65;
   color: #1f2937;
+  letter-spacing: -0.01em;
 }
 
 .pipeline {
@@ -153,7 +156,7 @@ permalink: /research-areas/
 <section class="research-section">
 
   <p class="research-intro">
-   My research examines how citizens’ political attitudes, party participation, policy responses, representation, and radical politics interact within contemporary democracies.
+    My research examines how citizens’ political attitudes, party participation, policy responses, representation, and radical politics interact in contemporary democracy.
   </p>
 
   <div class="pipeline">
@@ -169,7 +172,7 @@ permalink: /research-areas/
 
       <li>
         <span class="research-number">02</span>
-        <p class="research-title">The Paradox of Successful Responses to COVID-19 in South Korea <span class="research-year">(2025)</span></p>
+        <p class="research-title">The Paradox of Successful Responses to COVID-19 in South Korea <span class="research-year">(2025, book chapter)</span></p>
       </li>
 
       <li>
@@ -194,7 +197,7 @@ permalink: /research-areas/
 
       <li>
         <span class="research-number">07</span>
-        <p class="research-title">Continuity and Change in Regionalism in Yeongnam and Honam: An Experimental Design for Affective Regionalism <span class="research-year">(2018)</span></p>
+        <p class="research-title">Analysis on the Causes of Over-Reporting of Voting and Ways to Curb It: Focusing on the Lying-Suspicious Group <span class="research-year">(2018)</span></p>
       </li>
     </ul>
   </div>
@@ -212,32 +215,12 @@ permalink: /research-areas/
 
       <li>
         <span class="research-number">02</span>
-        <p class="research-title">Different Clocks, Different Votes: How Temporal Framing Makes Time Matter for Voting <span class="research-status">(under review)</span></p>
-      </li>
-
-      <li>
-        <span class="research-number">03</span>
-        <p class="research-title">War of Party Banners: The Impact of Partisan Messages on Voter Perceptions <span class="research-year">(2025)</span></p>
-      </li>
-
-      <li>
-        <span class="research-number">04</span>
-        <p class="research-title">Why Do Young People Engage in Politics? <span class="research-year">(2024)</span></p>
-      </li>
-
-      <li>
-        <span class="research-number">05</span>
         <p class="research-title">Do Voters Prefer Incumbents Holding Cabinet Positions? Focusing on Voters’ Attitudes toward Concurrent Positions <span class="research-year">(2020)</span></p>
       </li>
 
       <li>
-        <span class="research-number">06</span>
+        <span class="research-number">03</span>
         <p class="research-title">Is the Korean Party System Unstable after Democratization? Focusing on the Effective Number of Parties and Electoral Volatility Indices <span class="research-year">(2019)</span></p>
-      </li>
-
-      <li>
-        <span class="research-number">07</span>
-        <p class="research-title">Analysis on the Causes of Over-Reporting of Voting and Ways to Curb It: Focusing on the Lying-Suspicious Group <span class="research-year">(2018)</span></p>
       </li>
     </ul>
   </div>
@@ -250,7 +233,7 @@ permalink: /research-areas/
     <ul class="research-list">
       <li>
         <span class="research-number">01</span>
-        <p class="research-title">Between Tradition and Neoliberalism: Temporal Layers of Youth Right-Wing Movements in South Korea <span class="research-year">(2027)</span></p>
+        <p class="research-title">Between Tradition and Neoliberalism: Temporal Layers of Youth Right-Wing Movements in South Korea <span class="research-status">(working paper; intended as a 2027 book chapter)</span></p>
       </li>
 
       <li>
@@ -265,17 +248,12 @@ permalink: /research-areas/
 
       <li>
         <span class="research-number">04</span>
-        <p class="research-title">The Rise of the South Korean Alt-Right: The Silent Counter-Revolution of Young Men <span class="research-year">(2025)</span></p>
+        <p class="research-title">The Rise of the South Korean Alt-Right: The Silent Counter-Revolution of Young Men <span class="research-year">(2025, forthcoming)</span></p>
       </li>
 
       <li>
         <span class="research-number">05</span>
-        <p class="research-title">Democratic Public or Exclusionary Fandom?: The Divergent Logics of Political Fandom <span class="research-year">(2026)</span></p>
-      </li>
-
-      <li>
-        <span class="research-number">06</span>
-        <p class="research-title">The Democratic Dilemma of Political Fandom: A Typology of Party Members <span class="research-year">(2025)</span></p>
+        <p class="research-title">Continuity and Change in Regionalism in Yeongnam and Honam: An Experimental Design for Affective Regionalism <span class="research-year">(2018)</span></p>
       </li>
     </ul>
   </div>
