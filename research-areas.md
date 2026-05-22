@@ -19,7 +19,7 @@ permalink: /research-areas/
   border-radius: 14px;
   background: #f8fafc;
   font-family: inherit;
-  font-size: 1.12rem;
+  font-size: 1.08rem;
   font-weight: 700;
   line-height: 1.65;
   color: #1f2937;
