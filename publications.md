@@ -37,15 +37,15 @@ permalink: /Publications/
   
 ### Working Paper
 
-- Roh, Gi-Woo. “Voter Bias and Youth Representation: The Role of Prejudice and Age Discrimination.” *Under Review*.
+- Roh, Gi-Woo. “Voter Bias and Youth Representation: The Role of Prejudice and Age Discrimination.” *Working paper*.
+
+- Kim, Chan-song, and Gi-Woo Roh. "Different Clocks, Different Votes: How Temporal Framing Makes Time Matter for Voting." *Working paper*.
 
 - Roh, Gi-Woo. “Translating Youth Participation into Policy: A Case Study of the Seoul Youth Ordinance in South Korea.” *R&R*.
 
 - Roh, Gi-Woo, and Jungsub, Shin. "Party Membership Motivations and Political Activism in a Polarized New Democracy: Evidence from South Korea." *R&R*.
 
-- Roh, Gi-Woo, and Chan-Song Kim. “Why Do Young People Engage in Politics?” Presented at the 2024 APSA Conference.
 
-- Na, Heejin, and Gi-Woo, Roh. “War of Party Banners: The Impact of Partisan Messages on Voter Perceptions.” Presentation at the 2025 APSA Conference.
 
 
 
