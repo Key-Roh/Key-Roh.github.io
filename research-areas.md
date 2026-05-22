@@ -153,7 +153,7 @@ permalink: /research-areas/
 <section class="research-section">
 
   <p class="research-intro">
-    My research examines how citizens’ political attitudes, party participation, policy responses, representation, and radical politics interact in contemporary democracies.
+   My research examines how citizens’ political attitudes, party participation, policy responses, representation, and radical politics interact within contemporary democracies.
   </p>
 
   <div class="pipeline">
