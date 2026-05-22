@@ -18,7 +18,7 @@ permalink: /research-areas/
   border-left: 4px solid #2f6f9f;
   border-radius: 14px;
   background: #f8fafc;
-  font-size: 1.05rem;
+  font-size: 1.04rem;
   line-height: 1.65;
   color: #1f2937;
 }
@@ -43,8 +43,8 @@ permalink: /research-areas/
 .pipeline h2 {
   position: relative;
   display: inline-block;
-  font-size: clamp(1.45rem, 2.3vw, 1.85rem);
-  line-height: 1.2;
+  font-size: clamp(1.42rem, 2.2vw, 1.78rem);
+  line-height: 1.22;
   margin: 0 0 24px;
   font-weight: 800;
   letter-spacing: -0.035em;
@@ -95,10 +95,23 @@ permalink: /research-areas/
 .research-title {
   margin: 0;
   max-width: 780px;
-  font-size: 1.02rem;
+  font-size: 1.01rem;
   line-height: 1.5;
   color: #1f2937;
   letter-spacing: -0.01em;
+}
+
+.research-year {
+  color: #64748b;
+  font-size: 0.95rem;
+  white-space: nowrap;
+}
+
+.research-status {
+  color: #2f6f9f;
+  font-size: 0.95rem;
+  font-weight: 650;
+  white-space: nowrap;
 }
 
 @media (max-width: 640px) {
@@ -116,7 +129,7 @@ permalink: /research-areas/
   }
 
   .pipeline h2 {
-    font-size: 1.35rem;
+    font-size: 1.34rem;
   }
 
   .research-list li {
@@ -151,32 +164,37 @@ permalink: /research-areas/
     <ul class="research-list">
       <li>
         <span class="research-number">01</span>
-        <p class="research-title">An Empirical Study on the Gender Conflict of the Young Generation: Focusing on Meritocracy and Luck-Egalitarianism (2022)</p>
+        <p class="research-title">The More the Worse: An Effect of Childcare on Parents’ Environmental Attitudes <span class="research-year">(2025)</span></p>
       </li>
 
       <li>
         <span class="research-number">02</span>
-        <p class="research-title">Analysis of the Effect of Youth Allowance on Trust in Local Government (2022)</p>
+        <p class="research-title">The Paradox of Successful Responses to COVID-19 in South Korea <span class="research-year">(2025)</span></p>
       </li>
 
       <li>
         <span class="research-number">03</span>
-        <p class="research-title">The More the Worse: An Effect of Childcare on Parents’ Environmental Attitudes (2025)</p>
+        <p class="research-title">An Empirical Study on the Gender Conflict of the Young Generation: Focusing on Meritocracy and Luck-Egalitarianism <span class="research-year">(2022)</span></p>
       </li>
 
       <li>
         <span class="research-number">04</span>
-        <p class="research-title">The Effects of Citizens’ Policy Evaluation on Government Trust: Analyzing the Decline of Government Trust during the Late Moon Jae-in Administration through Panel Data (2022)</p>
+        <p class="research-title">Analysis of the Effect of Youth Allowance on Trust in Local Government <span class="research-year">(2022)</span></p>
       </li>
 
       <li>
         <span class="research-number">05</span>
-        <p class="research-title">Universal Basic Income and Issue Ownership in South Korea (2020)</p>
+        <p class="research-title">The Effects of Citizens’ Policy Evaluation on Government Trust: Analyzing the Decline of Government Trust during the Late Moon Jae-in Administration through Panel Data <span class="research-year">(2022)</span></p>
       </li>
 
       <li>
         <span class="research-number">06</span>
-        <p class="research-title">Continuity and Change in Regionalism in Yeongnam and Honam: An Experimental Design for Affective Regionalism (2018)</p>
+        <p class="research-title">Universal Basic Income and Issue Ownership in South Korea <span class="research-year">(2020)</span></p>
+      </li>
+
+      <li>
+        <span class="research-number">07</span>
+        <p class="research-title">Continuity and Change in Regionalism in Yeongnam and Honam: An Experimental Design for Affective Regionalism <span class="research-year">(2018)</span></p>
       </li>
     </ul>
   </div>
@@ -189,22 +207,37 @@ permalink: /research-areas/
     <ul class="research-list">
       <li>
         <span class="research-number">01</span>
-        <p class="research-title">Is the Korean Party System Unstable after Democratization? Focusing on the Effective Number of Parties and Electoral Volatility Indices (2019)</p>
+        <p class="research-title">Party Membership Motivations and Political Activism in a Polarized New Democracy: Evidence from South Korea <span class="research-status">(R&amp;R; under review)</span></p>
       </li>
 
       <li>
         <span class="research-number">02</span>
-        <p class="research-title">Party Membership Motivations and Political Activism in a Polarized New Democracy: Evidence from South Korea</p>
+        <p class="research-title">Different Clocks, Different Votes: How Temporal Framing Makes Time Matter for Voting <span class="research-status">(under review)</span></p>
       </li>
 
       <li>
         <span class="research-number">03</span>
-        <p class="research-title">Do Voters Prefer Incumbents Holding Cabinet Positions? Focusing on Voters’ Attitudes toward Concurrent Positions (2020)</p>
+        <p class="research-title">War of Party Banners: The Impact of Partisan Messages on Voter Perceptions <span class="research-year">(2025)</span></p>
       </li>
 
       <li>
         <span class="research-number">04</span>
-        <p class="research-title">Analysis on the Causes of Over-Reporting of Voting and Ways to Curb It: Focusing on the Lying-Suspicious Group (2018)</p>
+        <p class="research-title">Why Do Young People Engage in Politics? <span class="research-year">(2024)</span></p>
+      </li>
+
+      <li>
+        <span class="research-number">05</span>
+        <p class="research-title">Do Voters Prefer Incumbents Holding Cabinet Positions? Focusing on Voters’ Attitudes toward Concurrent Positions <span class="research-year">(2020)</span></p>
+      </li>
+
+      <li>
+        <span class="research-number">06</span>
+        <p class="research-title">Is the Korean Party System Unstable after Democratization? Focusing on the Effective Number of Parties and Electoral Volatility Indices <span class="research-year">(2019)</span></p>
+      </li>
+
+      <li>
+        <span class="research-number">07</span>
+        <p class="research-title">Analysis on the Causes of Over-Reporting of Voting and Ways to Curb It: Focusing on the Lying-Suspicious Group <span class="research-year">(2018)</span></p>
       </li>
     </ul>
   </div>
@@ -217,32 +250,32 @@ permalink: /research-areas/
     <ul class="research-list">
       <li>
         <span class="research-number">01</span>
-        <p class="research-title">Voter Bias and Youth Representation: The Role of Prejudice and Age Discrimination</p>
+        <p class="research-title">Between Tradition and Neoliberalism: Temporal Layers of Youth Right-Wing Movements in South Korea <span class="research-year">(2027)</span></p>
       </li>
 
       <li>
         <span class="research-number">02</span>
-        <p class="research-title">Translating Youth Participation into Policy: A Case Study of the Seoul Youth Ordinance in South Korea</p>
+        <p class="research-title">Translating Youth Participation into Policy: A Case Study of the Seoul Youth Ordinance in South Korea <span class="research-status">(R&amp;R; under review)</span></p>
       </li>
 
       <li>
         <span class="research-number">03</span>
-        <p class="research-title">Deepening Democracy through Representation: Representative Claims, Accountability, and Minority Inclusion</p>
+        <p class="research-title">Voter Bias and Youth Representation: The Role of Prejudice and Age Discrimination <span class="research-status">(under review)</span></p>
       </li>
 
       <li>
         <span class="research-number">04</span>
-        <p class="research-title">The Rise of the South Korean Alt-Right: The ‘Silent Counter-Revolution’ of Young Men (2025)</p>
+        <p class="research-title">The Rise of the South Korean Alt-Right: The Silent Counter-Revolution of Young Men <span class="research-year">(2025)</span></p>
       </li>
 
       <li>
         <span class="research-number">05</span>
-        <p class="research-title">Between Tradition and Neoliberalism: Temporal Layers of Youth Right-Wing Movements in South Korea</p>
+        <p class="research-title">Democratic Public or Exclusionary Fandom?: The Divergent Logics of Political Fandom <span class="research-year">(2026)</span></p>
       </li>
 
       <li>
         <span class="research-number">06</span>
-        <p class="research-title">Why Do Young People Join Right-Wing Activism? Qualitative Evidence from South Korea</p>
+        <p class="research-title">The Democratic Dilemma of Political Fandom: A Typology of Party Members <span class="research-year">(2025)</span></p>
       </li>
     </ul>
   </div>
