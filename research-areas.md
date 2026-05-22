@@ -195,10 +195,6 @@ permalink: /research-areas/
         <p class="research-title">Universal Basic Income and Issue Ownership in South Korea <span class="research-year">(2020)</span></p>
       </li>
 
-      <li>
-        <span class="research-number">07</span>
-        <p class="research-title">Analysis on the Causes of Over-Reporting of Voting and Ways to Curb It: Focusing on the Lying-Suspicious Group <span class="research-year">(2018)</span></p>
-      </li>
     </ul>
   </div>
 
@@ -222,6 +218,12 @@ permalink: /research-areas/
         <span class="research-number">03</span>
         <p class="research-title">Is the Korean Party System Unstable after Democratization? Focusing on the Effective Number of Parties and Electoral Volatility Indices <span class="research-year">(2019)</span></p>
       </li>
+
+      <li>
+        <span class="research-number">04</span>
+        <p class="research-title">Analysis on the Causes of Over-Reporting of Voting and Ways to Curb It: Focusing on the Lying-Suspicious Group <span class="research-year">(2018)</span></p>
+      </li>
+      
     </ul>
   </div>
 
