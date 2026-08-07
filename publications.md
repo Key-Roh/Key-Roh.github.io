@@ -15,6 +15,8 @@ permalink: /Publications/
 
 - Kim, Chan-Song, and Gi-Woo Roh. 2025. “The More The Worse: An Effect of Childcare on Parents’ Environmental Attitudes.” *Social Science Quarterly* 106(3): e70018.
 
+<br>
+
 
 ### Peer-Reviewed Journal Articles (in Korean)
 
@@ -34,6 +36,8 @@ permalink: /Publications/
 
 - Roh, Gi-Woo, and Hyeon-Woo Lee. 2018. “Analysis on the Causes of Over-Reporting of Voting and Ways to Curb It: Focusing on the Lying-Suspicious Group.” *Legislation and Policy Studies* 10(2): 63–90.
 
+<br>
+
 
 ### Book Chapter
 
@@ -41,6 +45,7 @@ permalink: /Publications/
   
 - Kim, Hee-Joon, and Gi-Woo Roh. 2027. “Between Tradition and Neoliberalism: Temporal Layers of Youth Right-Wing Movements in South Korea.” In *Research Handbook on Youth and Politics*, ed. Nuno de Almeida Alves. Edward Elgar Publishing Ltd. Working paper, intended as a book chapter.
 
+<br>
 
 ### Working Papers
 
