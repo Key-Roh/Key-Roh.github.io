@@ -1,9 +1,18 @@
-title: Gi-Woo Roh
-email: Politics0412@gmail.com
+title: "Gi-Woo Roh"
+
+email: "Politics0412@gmail.com"
+
 description: >-
-  Academic homepage of Dr. Gi-Woo Roh, Research Fellow at Sogang institute of Political Studies.
-baseurl: ""
+  Academic homepage of Gi-Woo Roh, Research Fellow at the Sogang Institute of Political Studies, Sogang University. His research focuses on political behavior, political representation, party politics, youth politics, and public opinion.
+
 url: "https://key-roh.github.io"
+baseurl: ""
+
+lang: en
+
+author:
+  name: "Gi-Woo Roh"
+
 theme: minima
 
 header_pages:
@@ -16,3 +25,4 @@ header_pages:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
