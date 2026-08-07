@@ -43,19 +43,19 @@ permalink: /Publications/
 
 - Cho, Youngho, and Gi-Woo Roh. 2025. “The Paradox of Successful Responses to COVID-19 in South Korea.” In *COVID-19 and the Changing Relationships between State and Society in East Asia*, ed. Yida Zhai. London: Routledge.
   
-- Kim, Hee-Joon, and Gi-Woo Roh. 2027. “Between Tradition and Neoliberalism: Temporal Layers of Youth Right-Wing Movements in South Korea.” In *Research Handbook on Youth and Politics*, ed. Nuno de Almeida Alves. Edward Elgar Publishing Ltd. Working paper, intended as a book chapter.
+- Kim, Hee-Joon, and Gi-Woo Roh. 2027. “Between Tradition and Neoliberalism: Temporal Layers of Youth Right-Wing Movements in South Korea.” In *Research Handbook on Youth and Politics*, ed. Nuno de Almeida Alves. Edward Elgar Publishing Ltd. *Working paper*, intended as a book chapter.
 
 <br>
 
 ### Working Papers
 
-- Roh, Gi-Woo. “Why Do Party Members Leave? Perceived Party Unresponsiveness and Party-Member Exit.” Under review (KCI).
+- Roh, Gi-Woo. “Why Do Party Members Leave? Perceived Party Unresponsiveness and Party-Member Exit.” *Under review* (KCI).
 
-- Noh, Songsan, and Gi-Woo Roh. “Why Do Party Members Make Political Contributions? Motives across Electoral and General Contexts.” Under review (KCI).
+- Noh, Songsan, and Gi-Woo Roh. “Why Do Party Members Make Political Contributions? Motives across Electoral and General Contexts.” *Under review* (KCI).
 
-- Kim, Chan-Song, and Gi-Woo Roh. “Different Clocks, Different Votes: How Temporal Framing Makes Time Matter for Voting.” Under review (SSCI).
+- Kim, Chan-Song, and Gi-Woo Roh. “Different Clocks, Different Votes: How Temporal Framing Makes Time Matter for Voting.” *Under review* (SSCI).
 
-- Roh, Gi-Woo, and Kyung-hoon Yoon. “A Representative Pathway to Democratic Deepening: Dual Accountability Linkage and Minority Inclusion.” Working paper.
+- Roh, Gi-Woo, and Kyung-hoon Yoon. “A Representative Pathway to Democratic Deepening: Dual Accountability Linkage and Minority Inclusion.” *Working paper*.
 
-- Roh, Gi-Woo. “Voter Bias and Youth Representation: The Role of Prejudice and Age Discrimination.” Working paper.
+- Roh, Gi-Woo. “Voter Bias and Youth Representation: The Role of Prejudice and Age Discrimination.” *Working paper*.
 
