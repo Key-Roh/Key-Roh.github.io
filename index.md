@@ -1,6 +1,6 @@
 ---
 layout: home
-title: ""
+title: "Home"
 ---
 
 ![Profile Picture](/assets/images/profile.jpg)
