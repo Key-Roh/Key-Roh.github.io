@@ -38,6 +38,8 @@ permalink: /Publications/
 ### Book Chapter
 
 - Cho, Youngho, and Gi-Woo Roh. 2025. “The Paradox of Successful Responses to COVID-19 in South Korea.” In *COVID-19 and the Changing Relationships between State and Society in East Asia*, ed. Yida Zhai. London: Routledge.
+  
+- Kim, Hee-Joon, and Gi-Woo Roh. 2027. “Between Tradition and Neoliberalism: Temporal Layers of Youth Right-Wing Movements in South Korea.” In *Research Handbook on Youth and Politics*, ed. Nuno de Almeida Alves. Edward Elgar Publishing Ltd. Working paper, intended as a book chapter.
 
 
 ### Working Papers
@@ -52,4 +54,3 @@ permalink: /Publications/
 
 - Roh, Gi-Woo. “Voter Bias and Youth Representation: The Role of Prejudice and Age Discrimination.” Working paper.
 
-- Kim, Hee-Joon, and Gi-Woo Roh. 2027. “Between Tradition and Neoliberalism: Temporal Layers of Youth Right-Wing Movements in South Korea.” In *Research Handbook on Youth and Politics*, ed. Nuno de Almeida Alves. Edward Elgar Publishing Ltd. Working paper, intended as a book chapter.
