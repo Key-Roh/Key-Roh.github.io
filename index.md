@@ -38,3 +38,25 @@ My research focuses on political behavior, political representation, party polit
   }
 }
 </script>
+
+<!-- hitwebcounter Code START -->
+<div style="margin-top:25px; text-align:right; opacity:0.55; line-height:1;">
+  <a href="https://www.hitwebcounter.com/convert-pdf-to-jpg"
+     target="_blank"
+     rel="noopener"
+     title="Visitor Counter">
+    <img
+      src="https://www.hitwebcounter.com/counter/counter.php?page=21513802&amp;style=0007&amp;nbdigits=5&amp;type=page"
+      alt="Visitor Counter"
+      decoding="async"
+      style="border:0; width:45px; height:auto;">
+  </a>
+  <br>
+  <a href="https://www.hitwebcounter.com/"
+     target="_blank"
+     rel="noopener"
+     style="font-family:Arial,sans-serif; font-size:6px; color:#aaa; text-decoration:none;">
+    hitwebcount
+  </a>
+</div>
+<!-- hitwebcounter Code END -->
