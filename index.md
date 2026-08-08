@@ -3,6 +3,8 @@ layout: home
 title: Home
 ---
 
+![Profile Picture](/assets/images/profile.jpg)
+
 # Gi-Woo Roh, PhD
 
 **Research Fellow, Sogang Institute of Political Studies, Sogang University, Seoul, South Korea**
