@@ -277,7 +277,7 @@ permalink: /research-areas/
         <span class="research-number">02</span>
         <p class="research-title">
           A Representative Pathway to Democratic Deepening: Dual Accountability Linkage and Minority Inclusion
-          <span class="research-status">(working paper)</span>
+          <span class="research-status">(2026)</span>
         </p>
       </li>
 
@@ -285,7 +285,7 @@ permalink: /research-areas/
         <span class="research-number">03</span>
         <p class="research-title">
           Voter Bias and Youth Representation: The Role of Prejudice and Age Discrimination
-          <span class="research-status">(working paper)</span>
+          <span class="research-status">(2026)</span>
         </p>
       </li>
 
