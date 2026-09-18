@@ -225,8 +225,8 @@ permalink: /research-areas/
       <li>
         <span class="research-number">02</span>
         <p class="research-title">
-          Why Do Party Members Leave? Perceived Party Unresponsiveness and Party-Member Exit
-          <span class="research-status">(under review)</span>
+          Why Do Party Members Leave? Perceived Party Unresponsiveness and Party Member Exit
+          <span class="research-status">(2026)</span>
         </p>
       </li>
 
@@ -234,7 +234,7 @@ permalink: /research-areas/
         <span class="research-number">03</span>
         <p class="research-title">
           Why Do Party Members Make Political Contributions? Motives for Presidential and General Political Contributions
-          <span class="research-status">(under review)</span>
+          <span class="research-status">(2026)</span>
         </p>
       </li>
 
@@ -277,7 +277,7 @@ permalink: /research-areas/
         <span class="research-number">02</span>
         <p class="research-title">
           A Representative Pathway to Democratic Deepening: Dual Accountability Linkage and Minority Inclusion
-          <span class="research-status">(2026)</span>
+          <span class="research-status">(working paper)</span>
         </p>
       </li>
 
@@ -285,7 +285,7 @@ permalink: /research-areas/
         <span class="research-number">03</span>
         <p class="research-title">
           Voter Bias and Youth Representation: The Role of Prejudice and Age Discrimination
-          <span class="research-status">(2026)</span>
+          <span class="research-status">(working paper)</span>
         </p>
       </li>
 
