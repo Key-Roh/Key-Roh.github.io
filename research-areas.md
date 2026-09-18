@@ -233,7 +233,7 @@ permalink: /research-areas/
       <li>
         <span class="research-number">03</span>
         <p class="research-title">
-          Why Do Party Members Make Political Contributions? Motives across Electoral and General Contexts
+          Why Do Party Members Make Political Contributions? Motives for Presidential and General Political Contributions
           <span class="research-status">(under review)</span>
         </p>
       </li>
