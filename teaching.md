@@ -19,6 +19,8 @@ permalink: /teaching/
 
 - Korea and the World, Sogang University (2026-1)
 
+- Korea and the World, Sogang University (2026-2)
+  
 <br>
 
 ### Methodology Workshops
