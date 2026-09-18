@@ -121,91 +121,89 @@ permalink: /research-areas/
 }
 </style>
 
-
 <section class="research-section">
-
 
   <div class="pipeline">
 
-  <h2>Political Behavior and Public Opinion</h2>
+    <h2>Political Behavior and Public Opinion</h2>
 
-  <ul class="research-list">
+    <ul class="research-list">
 
-    <li>
-      <span class="research-number">01</span>
-      <p class="research-title">
-        The More the Worse: An Effect of Childcare on Parents’ Environmental Attitudes
-        <span class="research-year">(2025)</span>
-      </p>
-    </li>
+      <li>
+        <span class="research-number">01</span>
+        <p class="research-title">
+          The More the Worse: An Effect of Childcare on Parents’ Environmental Attitudes
+          <span class="research-year">(2025)</span>
+        </p>
+      </li>
 
-    <li>
-      <span class="research-number">02</span>
-      <p class="research-title">
-        Different Clocks, Different Votes: How Temporal Framing Makes Time Matter for Voting
-        <span class="research-status">(under review)</span>
-      </p>
-    </li>
+      <li>
+        <span class="research-number">02</span>
+        <p class="research-title">
+          Different Clocks, Different Votes: How Temporal Framing Makes Time Matter for Voting
+          <span class="research-status">(under review)</span>
+        </p>
+      </li>
 
-    <li>
-      <span class="research-number">03</span>
-      <p class="research-title">
-        The Paradox of Successful Responses to COVID-19 in South Korea
-        <span class="research-year">(2025, book chapter)</span>
-      </p>
-    </li>
+      <li>
+        <span class="research-number">03</span>
+        <p class="research-title">
+          The Paradox of Successful Responses to COVID-19 in South Korea
+          <span class="research-year">(2025, book chapter)</span>
+        </p>
+      </li>
 
-    <li>
-      <span class="research-number">04</span>
-      <p class="research-title">
-        An Empirical Study on the Gender Conflict of the Young Generation: Focusing on Meritocracy and Luck-Egalitarianism
-        <span class="research-year">(2022)</span>
-      </p>
-    </li>
+      <li>
+        <span class="research-number">04</span>
+        <p class="research-title">
+          An Empirical Study on the Gender Conflict of the Young Generation: Focusing on Meritocracy and Luck-Egalitarianism
+          <span class="research-year">(2022)</span>
+        </p>
+      </li>
 
-    <li>
-      <span class="research-number">05</span>
-      <p class="research-title">
-        Analysis of the Effect of Youth Allowance on Trust in Local Government
-        <span class="research-year">(2022)</span>
-      </p>
-    </li>
+      <li>
+        <span class="research-number">05</span>
+        <p class="research-title">
+          Analysis of the Effect of Youth Allowance on Trust in Local Government
+          <span class="research-year">(2022)</span>
+        </p>
+      </li>
 
-    <li>
-      <span class="research-number">06</span>
-      <p class="research-title">
-        The Effects of Citizens’ Policy Evaluation on Government Trust: Analyzing the Decline of Government Trust during the Late Moon Jae-in Administration through Panel Data
-        <span class="research-year">(2022)</span>
-      </p>
-    </li>
+      <li>
+        <span class="research-number">06</span>
+        <p class="research-title">
+          The Effects of Citizens’ Policy Evaluation on Government Trust: Analyzing the Decline of Government Trust during the Late Moon Jae-in Administration through Panel Data
+          <span class="research-year">(2022)</span>
+        </p>
+      </li>
 
-    <li>
-      <span class="research-number">07</span>
-      <p class="research-title">
-        Do Voters Prefer Incumbents Holding Cabinet Positions? Focusing on Voters’ Attitudes toward Concurrent Positions
-        <span class="research-year">(2020)</span>
-      </p>
-    </li>
+      <li>
+        <span class="research-number">07</span>
+        <p class="research-title">
+          Do Voters Prefer Incumbents Holding Cabinet Positions? Focusing on Voters’ Attitudes toward Concurrent Positions
+          <span class="research-year">(2020)</span>
+        </p>
+      </li>
 
-    <li>
-      <span class="research-number">08</span>
-      <p class="research-title">
-        Universal Basic Income and Issue Ownership in South Korea
-        <span class="research-year">(2020)</span>
-      </p>
-    </li>
+      <li>
+        <span class="research-number">08</span>
+        <p class="research-title">
+          Universal Basic Income and Issue Ownership in South Korea
+          <span class="research-year">(2020)</span>
+        </p>
+      </li>
 
-    <li>
-      <span class="research-number">09</span>
-      <p class="research-title">
-        Continuity and Change in Regionalism in Yeongnam and Honam: An Experimental Design for Affective Regionalism
-        <span class="research-year">(2018)</span>
-      </p>
-    </li>
+      <li>
+        <span class="research-number">09</span>
+        <p class="research-title">
+          Continuity and Change in Regionalism in Yeongnam and Honam: An Experimental Design for Affective Regionalism
+          <span class="research-year">(2018)</span>
+        </p>
+      </li>
 
-  </ul>
+    </ul>
 
-</div>
+  </div>
 
 
   <div class="pipeline">
@@ -226,7 +224,7 @@ permalink: /research-areas/
         <span class="research-number">02</span>
         <p class="research-title">
           Why Do Party Members Leave? Perceived Party Unresponsiveness and Party Member Exit
-          <span class="research-status">(2026)</span>
+          <span class="research-year">(2026)</span>
         </p>
       </li>
 
@@ -234,7 +232,7 @@ permalink: /research-areas/
         <span class="research-number">03</span>
         <p class="research-title">
           Why Do Party Members Make Political Contributions? Motives for Presidential and General Political Contributions
-          <span class="research-status">(2026)</span>
+          <span class="research-year">(2026)</span>
         </p>
       </li>
 
@@ -308,6 +306,5 @@ permalink: /research-areas/
     </ul>
 
   </div>
-
 
 </section>
