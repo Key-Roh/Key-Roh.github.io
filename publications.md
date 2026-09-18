@@ -20,9 +20,9 @@ permalink: /Publications/
 
 ### Peer-Reviewed Journal Articles (in Korean)
 
-- Roh, Gi-Woo. 2026. “Why Do Party Members Leave? Perceived Party Unresponsiveness and Party Member Exit.” *Korean Party Studies Review* forthcoming.
+- Roh, Gi-Woo. 2026. “Why Do Party Members Leave? Perceived Party Unresponsiveness and Party Member Exit.” *Korean Party Studies Review.* forthcoming.
 
-- Noh, Songsan, and Gi-Woo Roh. “Why Do Party Members Make Political Contributions? Motives for Presidential and General Political Contributions.” *21st Century Political Science Review* forthcoming.
+- Noh, Songsan, and Gi-Woo Roh. “Why Do Party Members Make Political Contributions? Motives for Presidential and General Political Contributions.” *21st Century Political Science Review.* forthcoming.
   
 - Roh, Gi-Woo, and Hyeon-Woo Lee. 2022. “An Empirical Study on the Gender Conflict of the Young Generation: Focusing on Meritocracy and Luck-Egalitarianism.” *Korean Political Science Review* 56(5): 57–86.
 
